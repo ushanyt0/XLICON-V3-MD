@@ -10,10 +10,10 @@
     "SUDO": {
       "description": "Add Owwner Number Here",
       "required": true,
-      "value": "923184070915"
+      "value": "94729299089"
     },
     "SUDO_NAME": {
-      "description": "Add Your Name Here",
+      "description": "Kenux",
       "required": true,
       "value": "SᴀʟᴍᴀɴSᴇʀ"
     },
@@ -35,7 +35,7 @@
     "BOT_NAME": {
       "description": "Set Your Bot Name Here",
       "required": false,
-      "value": "Xʟɪᴄᴏɴ_Mᴅ_V3"
+      "value": "Kenux-md"
     },
      "PACK_NAME": {
       "description": "Enter Pack Name Here",
@@ -45,12 +45,12 @@
      "AUTHER_NAME": {
       "description": "Enter Auther Name Here",
       "required": false,
-      "value": "ＭＡＤＥ   ＢＹ   ＳＡＬＭＡＮ"
+      "value": "ＭＡＤＥ   ＢＹ   SHANA"
      },
      "GL_VIP": {
       "description": "Enter Premium Members Numbers [ Each Saperated By Comma ]",
       "required": false,
-      "value": "923184070915,923264476886"
+      "value": "94729299089,94729299089"
      },
     "WELCOME_MSG": {
       "description": "Welcome Message True/False",
